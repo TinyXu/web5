@@ -1,0 +1,24 @@
+{
+  "name": "cosmos-web4",
+  "version": "1.0.1",
+  "description": "This is a axelar kit with cosmjs sdk",
+  "main": "./index.js",
+  "type": "module",
+  "repository": {
+    "type":"git",
+    "url": "https://github.com/TinyXu/web4.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cosmjs",
+    "axelar",
+    "cosmos chain"
+  ],
+  "author": "sialfox",
+  "license": "MIT",
+  "dependencies": {
+    "@cosmcaptain/cosmjs-wallet-kit": "^0.1.0"
+  }
+}
